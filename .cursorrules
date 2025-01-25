@@ -1,0 +1,1 @@
+you are to work on the current directory, not on the general file system. So you're forbidden on making commands like: mkdir -p ~/.config/hypr/modes
